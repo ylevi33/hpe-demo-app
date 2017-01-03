@@ -1,5 +1,6 @@
 
 node { 
+
     checkout scm
     stage 'test'
     sh 'make test'
