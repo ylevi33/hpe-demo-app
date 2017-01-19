@@ -4,6 +4,4 @@ node {
     sh 'make test'
     stage 'publish'
     sh 'make publish'
-    
-    
 }
