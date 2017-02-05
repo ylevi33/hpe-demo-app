@@ -1,4 +1,5 @@
 node { 
+    //Checkout scm
     checkout scm
 
     stage 'test'
