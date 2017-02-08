@@ -6,7 +6,3 @@ node {
     sh 'make publish'
 }
 
-
-
-
-
