@@ -7,5 +7,9 @@ node {
     stage 'publish'
     sh 'make publish'
     
-}  
+    echo "This is my change"
+    echo "another change"
+    echo "ff"
+    echo "tt
+} 
 
