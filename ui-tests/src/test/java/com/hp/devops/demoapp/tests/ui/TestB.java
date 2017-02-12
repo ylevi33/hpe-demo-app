@@ -17,7 +17,7 @@ import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 public class TestB {
-
+	// new comment
     static final boolean isMusicApp = false;
 
     static private WebDriver driver;
