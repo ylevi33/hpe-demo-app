@@ -73,6 +73,7 @@ public class TestA {
 
     }
 
+    // user story #1067
     @Test
     @Ignore
     public void testUIcaseA() {
