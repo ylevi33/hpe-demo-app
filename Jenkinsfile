@@ -5,5 +5,5 @@ node {
     stage 'publish'
     sh 'make publish'
 }
-iii
+gg
 
