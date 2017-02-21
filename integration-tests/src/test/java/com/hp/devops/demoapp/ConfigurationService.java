@@ -7,6 +7,7 @@ import javax.annotation.PostConstruct;
  * Date: 11/25/14
  * Description
  */
+@SuppressWarnings("Since15")
 public class ConfigurationService {
 
     private static ConfigurationService instance = new ConfigurationService();
