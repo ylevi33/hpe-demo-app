@@ -15,7 +15,6 @@ import java.security.InvalidParameterException;
  * Time: 14:21
  * To change this template use File | Settings | File Templates df.
  */
-@Ignore
 public class BandTest {
 	//private String NON_RELATED;
 	private JSONObject test;
