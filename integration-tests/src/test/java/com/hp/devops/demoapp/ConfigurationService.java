@@ -76,3 +76,4 @@ public class ConfigurationService {
         return protocol + "://" + hostName;
     }
 }
+
