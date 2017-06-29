@@ -62,13 +62,4 @@ public class CalcsTest {
 		assertTrue(Calcs.alwaysTrue());
 	}
 
-	@Test
-	public void mul_test_A() {
-		assertEquals(6, Calcs.mul(2, 3));
-	}
-
-	@Test
-	public void div_test_A() {
-		assertEquals(2, Calcs.mul(6, 3));
-	}
 }
