@@ -66,4 +66,9 @@ public class CalcsTest {
 	public void mul_test_A() {
 		assertEquals(6, Calcs.mul(2, 3));
 	}
+
+	@Test
+	public void div_test_A() {
+		assertEquals(2, Calcs.div(6, 3));
+	}
 }
