@@ -61,4 +61,9 @@ public class CalcsTest {
 	public void always_true_A() {
 		assertTrue(Calcs.alwaysTrue());
 	}
+
+	@Test
+	public void mul_test_A() {
+		assertEquals(10, Calcs.sub(5, 2));
+	}
 }
