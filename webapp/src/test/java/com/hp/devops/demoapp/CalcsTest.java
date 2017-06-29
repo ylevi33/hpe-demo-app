@@ -33,11 +33,6 @@ public class CalcsTest {
 	}
 
 	@Test
-	public void mul_test_A() {
-		assertEquals(10, Calcs.sub(5, 2));
-	}
-
-	@Test
 	public void div_test_A() {
 		assertEquals(3, Calcs.sub(6, 2));
 	}

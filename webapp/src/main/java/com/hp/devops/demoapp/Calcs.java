@@ -14,14 +14,6 @@ public class Calcs {
 		return a - b;
 	}
 
-	public static int mul(int a, int b) {     //  3 tests cover this
-		return a * b;
-	}
-
-	public static int dov(int a, int b) {     //  3 tests cover this
-		return a / b;
-	}
-
 	public static boolean equal(int a, int b) {     //  2 tests cover this
 		return (a == b);
 	}
