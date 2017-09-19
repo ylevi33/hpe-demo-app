@@ -12,5 +12,3 @@ node {
     echo "ff"
     echo "35"
 }
-
-
