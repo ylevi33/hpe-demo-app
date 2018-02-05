@@ -1,5 +1,5 @@
 node {
-    //Checkout scm
+    //Checkout scm -test
     checkout scm
 
     stage 'test'
@@ -7,4 +7,5 @@ node {
     
     stage 'publish'
     sh 'make publish'
+    
 }
