@@ -22,7 +22,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
  * To change this template use File | Settings | File Templates.
  */
 public class TestA {
-	// new comment
+	// new comment1
     static final boolean isMusicApp = false;
 
     static private WebDriver driver;
